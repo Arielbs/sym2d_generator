@@ -1,0 +1,14 @@
+name: con37comp
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - jupyter
+  - numpy
+  - scipy
+  - pandas
+  - pypdb
+  - matplotlib
+  - IPython
+  - ipywidgets
+prefix: /home/arielb10/.conda/envs/con37comp
