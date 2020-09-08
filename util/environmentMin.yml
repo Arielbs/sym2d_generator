@@ -11,4 +11,5 @@ dependencies:
   - matplotlib
   - IPython
   - ipywidgets
+  - voila
 prefix: /home/arielb10/.conda/envs/con37comp
